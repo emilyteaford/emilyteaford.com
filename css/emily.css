@@ -1,0 +1,22 @@
+html {
+    font-family: monospace;
+    font-size: 14px;
+}
+
+
+body {
+    background: #fff;
+    margin: 0 auto;
+    width: 1000px;
+
+
+}
+
+article {
+    display: inline-block;
+    vertical-align: top;
+}
+
+p {
+    width: 300px;
+}
