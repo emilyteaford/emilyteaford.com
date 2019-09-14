@@ -1,0 +1,15 @@
+html {
+  background-color: darkorange;
+  color: rgb(15, 14, 15);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p:nth-child(4) {
+  background-color: burlywood;
+}
+.glide {
+  font-size: 30px;
+}
+
+
+
